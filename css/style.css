@@ -119,14 +119,20 @@ header .brand img {
     display: block;
     width: 100%;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a78f52d... by mistake I been working on master, so after this I'll move previous commints to mauricio-rengifo
     transition-duration: 0.5s;
 }
 header:hover > .brand img {
     /* this filter property is the only this that I don't know who it work - Some documentation: https://codepen.io/sosuke/pen/Pjoqqp*/
     filter: invert(21%) sepia(90%) saturate(6022%) hue-rotate(341deg) brightness(88%) contrast(95%);
     transition-duration: 0.5s;
+<<<<<<< HEAD
 =======
 >>>>>>> 54fed7c... rename file index.css to style.css
+=======
+>>>>>>> a78f52d... by mistake I been working on master, so after this I'll move previous commints to mauricio-rengifo
 }
 
 header nav {
