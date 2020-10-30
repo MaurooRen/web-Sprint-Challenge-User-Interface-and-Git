@@ -118,6 +118,12 @@ header .brand {
 header .brand img {
     display: block;
     width: 100%;
+    transition-duration: 0.5s;
+}
+header:hover > .brand img {
+    /* this filter property is the only this that I don't know who it work - Some documentation: https://codepen.io/sosuke/pen/Pjoqqp*/
+    filter: invert(21%) sepia(90%) saturate(6022%) hue-rotate(341deg) brightness(88%) contrast(95%);
+    transition-duration: 0.5s;
 }
 
 header nav {
