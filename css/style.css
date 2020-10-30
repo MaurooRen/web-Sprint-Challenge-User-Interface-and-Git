@@ -118,21 +118,12 @@ header .brand {
 header .brand img {
     display: block;
     width: 100%;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> a78f52d... by mistake I been working on master, so after this I'll move previous commints to mauricio-rengifo
     transition-duration: 0.5s;
 }
 header:hover > .brand img {
     /* this filter property is the only this that I don't know who it work - Some documentation: https://codepen.io/sosuke/pen/Pjoqqp*/
     filter: invert(21%) sepia(90%) saturate(6022%) hue-rotate(341deg) brightness(88%) contrast(95%);
     transition-duration: 0.5s;
-<<<<<<< HEAD
-=======
->>>>>>> 54fed7c... rename file index.css to style.css
-=======
->>>>>>> a78f52d... by mistake I been working on master, so after this I'll move previous commints to mauricio-rengifo
 }
 
 header nav {
@@ -150,10 +141,6 @@ header nav a:hover {
 }
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 /* GENERAL: INTRO IMAGE */
 
 
@@ -176,11 +163,6 @@ header nav a:hover {
 }
 
 
-<<<<<<< HEAD
-=======
->>>>>>> 54fed7c... rename file index.css to style.css
-=======
->>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 /* GENERAL: FOOTER */
 
 
@@ -209,37 +191,7 @@ footer nav a {
 */
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 /* INDEX: MAIN CONTENT */
-=======
-/* INDEX: INTRO IMAGE */
-
-
-.intro {
-    margin: 35px auto 20px auto;
-    display: block;
-    width: 100%;
-    height: 20vh;
-    background-image: url(https://picsum.photos/900);
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    transition: background-size 0.5s ease-in;
-
-}
-.intro:hover {
-    background-size: 150%;
-    transition: background-size 0.5s ease-in;
-
-}
-
-
-/* INDEX: INTRO CONTENT */
->>>>>>> 54fed7c... rename file index.css to style.css
-=======
-/* INDEX: MAIN CONTENT */
->>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 
 
 .top-content {
@@ -334,10 +286,6 @@ footer nav a {
 
 .bottom-content .text-container:last-child {
     padding-right: 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 }
 
 
@@ -345,14 +293,7 @@ footer nav a {
 ----> ABOUT.HTML STYLES
 */
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
-=======
-
->>>>>>> 1d174d6... adding some extra hover effects
 /* ABOUT: MAIN CONTENT */
 
 
@@ -379,33 +320,14 @@ footer nav a {
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 20px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    border-bottom: 1px dashed black;
->>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
-=======
->>>>>>> 1d174d6... adding some extra hover effects
 }
 
 .about-services .text-container {
     width: 48%;
-<<<<<<< HEAD
-<<<<<<< HEAD
     margin-bottom: 40px;
     padding: 0 1%;
     padding-bottom: 20px;
     border-bottom: 1px dashed black;
-=======
-    padding: 0 1%;
-    padding-bottom: 20px;  
->>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
-=======
-    margin-bottom: 40px;
-    padding: 0 1%;
-    padding-bottom: 20px;
-    border-bottom: 1px dashed black;
->>>>>>> 1d174d6... adding some extra hover effects
 }
 .about-services .text-container img {
     display: block;
@@ -421,10 +343,6 @@ footer nav a {
     letter-spacing:2px;
     border: 2px solid #000;
     border-radius: 10px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 1d174d6... adding some extra hover effects
 }
 .about-services .text-container a:hover {
     background-color: #000;
@@ -447,11 +365,4 @@ footer nav a {
     width: 100%;
     padding: 0 1%;
     padding-bottom: 20px;  
-<<<<<<< HEAD
-=======
->>>>>>> 54fed7c... rename file index.css to style.css
-=======
->>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
-=======
->>>>>>> 1d174d6... adding some extra hover effects
 }
