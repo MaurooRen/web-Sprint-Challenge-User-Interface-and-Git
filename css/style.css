@@ -145,6 +145,9 @@ header nav a:hover {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 /* GENERAL: INTRO IMAGE */
 
 
@@ -167,8 +170,11 @@ header nav a:hover {
 }
 
 
+<<<<<<< HEAD
 =======
 >>>>>>> 54fed7c... rename file index.css to style.css
+=======
+>>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 /* GENERAL: FOOTER */
 
 
@@ -198,6 +204,7 @@ footer nav a {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* INDEX: MAIN CONTENT */
 =======
 /* INDEX: INTRO IMAGE */
@@ -224,6 +231,9 @@ footer nav a {
 
 /* INDEX: INTRO CONTENT */
 >>>>>>> 54fed7c... rename file index.css to style.css
+=======
+/* INDEX: MAIN CONTENT */
+>>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 
 
 .top-content {
@@ -319,6 +329,9 @@ footer nav a {
 .bottom-content .text-container:last-child {
     padding-right: 0;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 }
 
 
@@ -326,7 +339,10 @@ footer nav a {
 ----> ABOUT.HTML STYLES
 */
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 /* ABOUT: MAIN CONTENT */
 
 
@@ -353,14 +369,23 @@ footer nav a {
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 20px;
+<<<<<<< HEAD
+=======
+    border-bottom: 1px dashed black;
+>>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 }
 
 .about-services .text-container {
     width: 48%;
+<<<<<<< HEAD
     margin-bottom: 40px;
     padding: 0 1%;
     padding-bottom: 20px;
     border-bottom: 1px dashed black;
+=======
+    padding: 0 1%;
+    padding-bottom: 20px;  
+>>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 }
 .about-services .text-container img {
     display: block;
@@ -376,6 +401,7 @@ footer nav a {
     letter-spacing:2px;
     border: 2px solid #000;
     border-radius: 10px;
+<<<<<<< HEAD
 }
 .about-services .text-container a:hover {
     background-color: #000;
@@ -400,4 +426,6 @@ footer nav a {
     padding-bottom: 20px;  
 =======
 >>>>>>> 54fed7c... rename file index.css to style.css
+=======
+>>>>>>> 4bc070d... about.html mvp done with css and correction to the identation
 }
