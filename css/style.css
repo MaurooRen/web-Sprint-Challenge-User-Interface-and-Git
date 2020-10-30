@@ -118,12 +118,15 @@ header .brand {
 header .brand img {
     display: block;
     width: 100%;
+<<<<<<< HEAD
     transition-duration: 0.5s;
 }
 header:hover > .brand img {
     /* this filter property is the only this that I don't know who it work - Some documentation: https://codepen.io/sosuke/pen/Pjoqqp*/
     filter: invert(21%) sepia(90%) saturate(6022%) hue-rotate(341deg) brightness(88%) contrast(95%);
     transition-duration: 0.5s;
+=======
+>>>>>>> 54fed7c... rename file index.css to style.css
 }
 
 header nav {
@@ -141,6 +144,7 @@ header nav a:hover {
 }
 
 
+<<<<<<< HEAD
 /* GENERAL: INTRO IMAGE */
 
 
@@ -163,6 +167,8 @@ header nav a:hover {
 }
 
 
+=======
+>>>>>>> 54fed7c... rename file index.css to style.css
 /* GENERAL: FOOTER */
 
 
@@ -191,7 +197,33 @@ footer nav a {
 */
 
 
+<<<<<<< HEAD
 /* INDEX: MAIN CONTENT */
+=======
+/* INDEX: INTRO IMAGE */
+
+
+.intro {
+    margin: 35px auto 20px auto;
+    display: block;
+    width: 100%;
+    height: 20vh;
+    background-image: url(https://picsum.photos/900);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: background-size 0.5s ease-in;
+
+}
+.intro:hover {
+    background-size: 150%;
+    transition: background-size 0.5s ease-in;
+
+}
+
+
+/* INDEX: INTRO CONTENT */
+>>>>>>> 54fed7c... rename file index.css to style.css
 
 
 .top-content {
@@ -286,6 +318,7 @@ footer nav a {
 
 .bottom-content .text-container:last-child {
     padding-right: 0;
+<<<<<<< HEAD
 }
 
 
@@ -365,4 +398,6 @@ footer nav a {
     width: 100%;
     padding: 0 1%;
     padding-bottom: 20px;  
+=======
+>>>>>>> 54fed7c... rename file index.css to style.css
 }
